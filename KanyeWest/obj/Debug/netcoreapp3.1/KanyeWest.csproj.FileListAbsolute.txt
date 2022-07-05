@@ -1,0 +1,16 @@
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.exe
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.deps.json
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.json
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.dev.json
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.pdb
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.AssemblyReference.cache
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CopyComplete
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.pdb
+C:\Users\David\Repos\CSharp27\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.genruntimeconfig.cache
